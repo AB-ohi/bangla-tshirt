@@ -9,7 +9,7 @@ import {
 import Main from './components/Main/Main';
 import Home from './components/Home/Home';
 import Order from './Order/Order';
-import About from './About/About';
+import About from './components/About/About';
 import Contact from './Contact/Contact';
 
 
