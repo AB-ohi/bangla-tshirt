@@ -1,0 +1,25 @@
+.orange{
+    background-color: orange;
+    color: white;
+}
+.blue{
+    background-color: blue;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+}
+.purple{
+    background-color: purple;
+    color: white;
+}
+
+.bold{
+    font-weight: bold;
+    color: white;
+}
